@@ -1,0 +1,12 @@
+{
+  "name": "Deity",
+  "version": "0.1.0",
+  "description": "A random Discord bot meant for personal use",
+  "main": "index.js",
+  "repository": "https://github.com/davliang/deity-bot",
+  "author": "DL",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
